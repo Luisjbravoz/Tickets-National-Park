@@ -1,0 +1,22 @@
+.picture-login {
+    width: 100vw;
+    height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('images/YosemiteNP1.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.error {
+    align-content: center;
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.text-payment {
+    text-align: left;
+    font-weight: bold;
+}
